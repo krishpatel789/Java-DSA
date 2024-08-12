@@ -3,7 +3,7 @@
 1. History of Java (Direct when, why, father of language, etc.)
 2. JDK, JRE, JVM >>> INTERNAL WORKING
 3. Basic Syntax (i.e., know what each and every word means when you write a Hello World program)
-4. How to Take Input and Output (Different possible ways)
+4. How to Take Input and Output.
 5. Basic Buzz Words (Good to know)
 6. Variable Declaration and Initialization (Know the difference between initialization and declaration) - Important to know
 
